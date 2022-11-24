@@ -2,7 +2,7 @@ import requests
 
 from Extensions.response import Response
 from Extensions.json_extension import JsonExtension
-from schemas.OpenStreetMap import OpenStreetMap
+from schemas.open_street_map import OpenStreetMap
 from enums.global_enums import GlobalErrorMessages
 import configurator
 
